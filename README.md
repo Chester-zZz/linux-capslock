@@ -11,3 +11,24 @@ setxkbmap -option caps:hyper
 - Autokey有用户界面，摸索着设置就可以，将辅助按键多设置为Hyper（因为上面把Capslock映射为Hyper了），这样就在Ubuntu上将Capslock利用了起来。要注意的是如果发送多个键要用  send_keys(...)
 
 - Autokey的部分配置文件放在本仓库。在本地的存储位置为：  /home/[your_name]/.config/autokey/data
+
+部分常用的按键映射如下（以实际效果为准，Autokey中还要映射）：
+```
+Capslock + j ---> left
+Capslock + l ---> right
+Capslock + i ---> up
+Capslock + k ---> down
+Capslock + u ---> home
+Capslock + o ---> end
+Capslock + Shift + j ---> Shift + left
+Capslock + Shift + l ---> Shift + right
+Capslock + Shift + i ---> Shift + up
+Capslock + Shift + k ---> Shift + down
+Capslock + Shift + u ---> Shift + home
+Capslock + Shift + o ---> Shift + end
+Capslock + Ctrl + j ---> Ctrl + left
+Capslock + Ctrl + l ---> Ctrl + right
+Capslock + Ctrl + i ---> Ctrl + up
+Capslock + Ctrl + k ---> Ctrl + down
+Capslock + s ---> Ctrl + s
+```
