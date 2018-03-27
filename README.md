@@ -1,4 +1,5 @@
-# Linux下快捷键解决方案
+# 利用Capslock
+## Linux下快捷键解决方案
 在windows上，有AHK这种大杀器，可以将Capslock键设置为一个辅助按键。奈何换到Ubuntu不能用AHK。网上有人说可以用wine运行AHK，但总觉得太过麻烦。
 
 于是google一番，设置好了在Ubuntu下的按键映射。
@@ -32,3 +33,8 @@ Capslock + Ctrl + i ---> Ctrl + up
 Capslock + Ctrl + k ---> Ctrl + down
 Capslock + s ---> Ctrl + s
 ```
+
+## Windows下解决方案
+
+- 下载AHK，安装。
+- 脚本CapsLock.ahk实现了上述基本映射功能。该脚本是网上找来的，做了一点修改，如果已安装AHK的话下载下来双击即可运行。
