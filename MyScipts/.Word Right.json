@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "showInTrayMenu": false,
+    "modes": [
+        3
+    ],
+    "abbreviation": {
+        "immediate": false,
+        "ignoreCase": false,
+        "abbreviations": [],
+        "backspace": true,
+        "wordChars": "[\\w]",
+        "triggerInside": false
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    },
+    "description": "Word Right",
+    "hotkey": {
+        "hotKey": "l",
+        "modifiers": [
+            "<ctrl>",
+            "<hyper>"
+        ]
+    },
+    "store": {},
+    "omitTrigger": false,
+    "usageCount": 12,
+    "prompt": false
+}

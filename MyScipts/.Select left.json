@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "showInTrayMenu": false,
+    "modes": [
+        3
+    ],
+    "abbreviation": {
+        "immediate": false,
+        "ignoreCase": false,
+        "abbreviations": [],
+        "backspace": true,
+        "wordChars": "[\\w]",
+        "triggerInside": false
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    },
+    "description": "Select left",
+    "hotkey": {
+        "hotKey": "j",
+        "modifiers": [
+            "<hyper>",
+            "<shift>"
+        ]
+    },
+    "store": {},
+    "omitTrigger": false,
+    "usageCount": 0,
+    "prompt": false
+}

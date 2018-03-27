@@ -1,0 +1,23 @@
+{
+    "type": "folder",
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "title": "MyScipts",
+    "modes": [],
+    "usageCount": 722,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "ignoreCase": false,
+        "triggerInside": false,
+        "abbreviations": [],
+        "immediate": false,
+        "backspace": true,
+        "wordChars": "[\\w]"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

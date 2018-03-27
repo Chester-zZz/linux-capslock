@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "showInTrayMenu": false,
+    "modes": [
+        3
+    ],
+    "abbreviation": {
+        "immediate": false,
+        "ignoreCase": false,
+        "abbreviations": [],
+        "backspace": true,
+        "wordChars": "[\\w]",
+        "triggerInside": false
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    },
+    "description": "RightBraket",
+    "hotkey": {
+        "hotKey": "0",
+        "modifiers": [
+            "<hyper>"
+        ]
+    },
+    "store": {},
+    "omitTrigger": false,
+    "usageCount": 0,
+    "prompt": false
+}
