@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "previous_editor",
+    "showInTrayMenu": false,
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    },
+    "modes": [
+        3
+    ],
+    "omitTrigger": false,
+    "usageCount": 0,
+    "prompt": false,
+    "abbreviation": {
+        "backspace": true,
+        "wordChars": "[\\w]",
+        "abbreviations": [],
+        "immediate": false,
+        "triggerInside": false,
+        "ignoreCase": false
+    },
+    "hotkey": {
+        "modifiers": [
+            "<ctrl>",
+            "<hyper>"
+        ],
+        "hotKey": "u"
+    },
+    "store": {}
+}
