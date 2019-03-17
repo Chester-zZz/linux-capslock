@@ -1,8 +1,8 @@
 {
-    "usageCount": 92, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Right", 
+    "description": "Line Up", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,8 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "l", 
+        "hotKey": "i", 
         "modifiers": [
+            "<alt>", 
             "<hyper>"
         ]
     }, 
