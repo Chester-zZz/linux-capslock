@@ -1,12 +1,8 @@
 {
-<<<<<<< HEAD
-    "usageCount": 104, 
-=======
-    "usageCount": 92, 
->>>>>>> 0a7e89881b252fb1fb26d47df5e8af11a8b6da85
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Right", 
+    "description": "Line Down", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -16,8 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "l", 
+        "hotKey": "k", 
         "modifiers": [
+            "<alt>", 
             "<hyper>"
         ]
     }, 

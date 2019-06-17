@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "usageCount": 7, 
+=======
+    "usageCount": 4, 
+>>>>>>> 0a7e89881b252fb1fb26d47df5e8af11a8b6da85
     "omitTrigger": false, 
     "prompt": false, 
     "description": "Delete", 
