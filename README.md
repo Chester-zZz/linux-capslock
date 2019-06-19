@@ -13,6 +13,9 @@ setxkbmap -option caps:hyper
 
 - Autokey的部分配置文件放在本仓库。在本地的存储位置为：  /home/[your_name]/.config/autokey/data
 
+有些linux发行版可能会有一些系统快捷键，主要涉及到的是L键，例如锁屏等。可通过系统设置将快捷键修改，或者修改autokey中的快捷键也可以。
+另外如果没有系统设置快捷键，可以安装dconf-editor，不过这个修改很危险，可能造成系统崩溃，要慎重。
+
 部分常用的按键映射如下（以实际效果为准，Autokey中还要映射）：
 ```
 Capslock + j ---> left
