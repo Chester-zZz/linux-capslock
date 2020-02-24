@@ -1,8 +1,8 @@
 {
-    "usageCount": 23, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "Brace+Enter", 
+    "description": "NextPanel", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,8 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "[", 
+        "hotKey": "l", 
         "modifiers": [
+            "<alt>", 
             "<hyper>"
         ]
     }, 
@@ -22,7 +23,7 @@
     ], 
     "showInTrayMenu": false, 
     "filter": {
-        "regex": null, 
+        "regex": "code.Code", 
         "isRecursive": false
     }, 
     "type": "script", 
